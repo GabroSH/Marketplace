@@ -104,3 +104,8 @@ a {
 ::-webkit-scrollbar-thumb:hover {
     background: grey;
 }
+@media (max-width: 726px) {
+    .card-box {
+        margin-bottom: 20px;
+    }
+}
